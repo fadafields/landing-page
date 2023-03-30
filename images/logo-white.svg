@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="533.49902"
+   height="94.986"
+   viewBox="0 0 533.49903 94.986"
+   id="svg866"
+   sodipodi:docname="logo-white.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs870" />
+  <sodipodi:namedview
+     id="namedview868"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.62622506"
+     inkscape:cx="355.30357"
+     inkscape:cy="-138.12925"
+     inkscape:window-width="1312"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="BOX" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TEXT">
+    <g
+       id="g7995"
+       transform="translate(-240.36806,-431.57368)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.486755"
+         id="rect3758"
+         width="494.40002"
+         height="56"
+         x="260.18631"
+         y="451.19803" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#2b4b61;fill-opacity:1;stroke:none"
+         x="269.53976"
+         y="493.35806"
+         id="text1612"><tspan
+           sodipodi:role="line"
+           id="tspan1610"
+           x="269.53976"
+           y="493.35806"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#2b4b61;fill-opacity:1">FADAFIELDS MARKETING</tspan></text>
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:7.50073;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3867"
+         width="525.99695"
+         height="87.485329"
+         x="244.38783"
+         y="435.45538" />
+    </g>
+  </g>
+</svg>
