@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Exo-Italic";
+    src: url(./fonts/Exo-Italic-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Exo-Variable";
+    src: url(./fonts/Exo-VariableFont_wght.ttf) format('truetype');
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    font-family: 'Exo-Variable', sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
