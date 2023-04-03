@@ -80,3 +80,40 @@ button {
     width: 150px;
     height: 40px;
 }
+
+.services-header {
+    text-align: center;
+    color: #0b6fca;
+}
+
+.services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+.office-shots {
+    width: 225px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #0b6fca;
+    border-width: 4px;
+}
+
+.images-description {
+    width: 225px;
+    text-align: center;
+    font-weight: 500;
+
+}
+
+.inspiration {
+    background-color: #cac6c4;
+    color: #1b4435;
+    font-style: italic;
+    font-size: x-large;
+    padding: 100px;
+}
+
