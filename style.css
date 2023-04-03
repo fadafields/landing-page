@@ -91,6 +91,7 @@ button {
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
+    margin-bottom: 20px;
 
 }
 
@@ -114,6 +115,13 @@ button {
     color: #1b4435;
     font-style: italic;
     font-size: x-large;
-    padding: 100px;
+    padding: 100px 300px;
+}
+
+.author {
+    font-weight: 900;
+    font-size: large;
+    text-align: right;
+    margin-right: 100px;
 }
 
