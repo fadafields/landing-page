@@ -36,6 +36,11 @@ ul {
     list-style-type: none;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .navbar {
     display: flex;
     gap: 30px;
@@ -51,6 +56,8 @@ ul {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .title-l {
@@ -107,15 +114,23 @@ button {
     width: 225px;
     text-align: center;
     font-weight: 500;
-
 }
 
 .inspiration {
     background-color: #cac6c4;
-    color: #1b4435;
-    font-style: italic;
-    font-size: x-large;
-    padding: 100px 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 700px;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 700px;
+    justify-content: center;
 }
 
 .author {
@@ -123,5 +138,12 @@ button {
     font-size: large;
     text-align: right;
     margin-right: 100px;
+    display: flex;
+    flex: 1;
 }
 
+.footer {
+    background-color: #1b4435;
+    color: #ffd1ba;
+    text-align: center;
+}
